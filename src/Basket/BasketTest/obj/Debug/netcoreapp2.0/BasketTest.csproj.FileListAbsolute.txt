@@ -1,0 +1,17 @@
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\BasketTest.deps.json
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\BasketTest.runtimeconfig.json
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\BasketTest.runtimeconfig.dev.json
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\BasketTest.dll
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\BasketTest.pdb
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\Basket.dll
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\Basket.pdb
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.csproj.CoreCompileInputs.cache
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.AssemblyInfoInputs.cache
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.AssemblyInfo.cs
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.csproj.CopyComplete
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.dll
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.pdb
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\article-database.json

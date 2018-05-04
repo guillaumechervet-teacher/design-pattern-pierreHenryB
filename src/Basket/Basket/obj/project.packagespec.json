@@ -1,0 +1,43 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Baboon\\Desktop\\Epsi\\Design Pattern\\design-pattern-pierreHenryB\\src\\Basket\\Basket\\Basket.csproj",
+    "projectName": "Basket",
+    "projectPath": "C:\\Users\\Baboon\\Desktop\\Epsi\\Design Pattern\\design-pattern-pierreHenryB\\src\\Basket\\Basket\\Basket.csproj",
+    "outputPath": "C:\\Users\\Baboon\\Desktop\\Epsi\\Design Pattern\\design-pattern-pierreHenryB\\src\\Basket\\Basket\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.1, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
