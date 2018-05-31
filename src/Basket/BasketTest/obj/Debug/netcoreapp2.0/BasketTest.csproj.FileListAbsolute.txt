@@ -14,4 +14,4 @@ C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Bask
 C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.csproj.CopyComplete
 C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.dll
 C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\obj\Debug\netcoreapp2.0\BasketTest.pdb
-C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\article-database.json
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\BasketTest\bin\Debug\netcoreapp2.0\articledatabase.json

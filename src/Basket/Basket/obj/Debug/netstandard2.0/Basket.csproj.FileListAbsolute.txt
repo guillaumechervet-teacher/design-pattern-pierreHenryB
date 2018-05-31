@@ -6,4 +6,7 @@ C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Bask
 C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.AssemblyInfo.cs
 C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.dll
 C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.pdb
-C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\Basket\bin\Debug\netstandard2.0\article-database.json
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\Basket\bin\Debug\netstandard2.0\articledatabase.json
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\Basket\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\Basket\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket\Basket\obj\Debug\netstandard2.0\Basket.csproj.CopyComplete

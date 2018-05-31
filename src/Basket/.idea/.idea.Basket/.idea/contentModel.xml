@@ -7,12 +7,16 @@
     <e p="C:\Users\Baboon\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Basket.-58989824.00" t="ExcludeRecursive" />
     <e p="C:\Users\Baboon\Desktop\Epsi\Design Pattern\design-pattern-pierreHenryB\src\Basket" t="IncludeFlat">
       <e p="Basket" t="IncludeRecursive">
-        <e p="article-database.json" t="Include" />
         <e p="ArticleDatabase.cs" t="Include" />
+        <e p="articledatabase.json" t="Include" />
         <e p="Basket.csproj" t="IncludeRecursive" />
         <e p="BasketLineArticle.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Class1.cs" t="Include" />
+        <e p="Domain" t="Include" />
+        <e p="ImperativeProgramming.cs" t="Include" />
+        <e p="Infrastructure" t="Include">
+          <e p="BasketService.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netstandard2.0" t="Include">
@@ -26,7 +30,6 @@
         <e p="BasketOperation_CalculateBasketAmoutShould.cs" t="Include" />
         <e p="BasketTest.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="ImperativeProgramming.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.0" t="Include">
@@ -35,7 +38,6 @@
             </e>
           </e>
         </e>
-        <e p="UnitTest1.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
