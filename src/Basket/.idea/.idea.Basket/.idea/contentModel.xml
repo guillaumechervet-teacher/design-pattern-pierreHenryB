@@ -11,8 +11,11 @@
         <e p="articledatabase.json" t="Include" />
         <e p="Basket.csproj" t="IncludeRecursive" />
         <e p="BasketLineArticle.cs" t="Include" />
+        <e p="BasketOperation.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Domain" t="Include" />
+        <e p="Domain" t="Include">
+          <e p="Basket.cs" t="Include" />
+        </e>
         <e p="ImperativeProgramming.cs" t="Include" />
         <e p="Infrastructure" t="Include">
           <e p="BasketService.cs" t="Include" />
